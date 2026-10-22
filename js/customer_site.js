@@ -1,5 +1,4 @@
 const CUSTOMER_SITES = {
-    qiqi: { api: 'https://www.qiqidys.com/api.php/provide/vod', name: '七七资源' },
     tyyszy: { api: 'https://tyyszy.com/api.php/provide/vod', name: '天涯资源' },
     dyttzy: { api: 'https://caiji.dyttzyapi.com/api.php/provide/vod', name: '电影天堂' },
     bfzy: { api: 'https://bfzyapi.com/api.php/provide/vod', name: '暴风资源' },
