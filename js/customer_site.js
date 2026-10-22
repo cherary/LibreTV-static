@@ -13,7 +13,15 @@ const CUSTOMER_SITES = {
     mdzy: { api: 'https://www.mdzyapi.com/api.php/provide/vod', name: '魔都资源' },
     jisu: { api: 'https://jszyapi.com/api.php/provide/vod', name: '极速资源' },
     hongniu: { api: 'https://api.hongniuapi.com/api.php/provide/vod', name: '红牛资源' },
-    xinlang: { api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod', name: '新浪资源' }
+    xinlang: { api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod', name: '新浪资源' },
+    ffzy: { api: 'https://cj.ffzyapi.com/api.php/provide/vod', name: '非凡影视' },
+    zy360: { api: 'https://360zy.com/api.php/provide/vod', name: '360资源' },
+    hhzy: { api: 'https://hhzyapi.com/api.php/provide/vod', name: '豪华资源' },
+    guangsu: { api: 'https://api.guangsuapi.com/api.php/provide/vod', name: '光速资源' },
+    huya: { api: 'https://www.huyaapi.com/api.php/provide/vod', name: '虎牙资源' },
+    baidu: { api: 'https://api.apibdzy.com/api.php/provide/vod', name: '百度云资源' },
+    piaoling: { api: 'https://p2100.net/api.php/provide/vod', name: '飘零资源' },
+    jinying: { api: 'https://jyzyapi.com/api.php/provide/vod', name: '金鹰资源' }
 };
 
 if (window.extendAPISites) {
